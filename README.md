@@ -56,6 +56,10 @@ Instalar todas estas dependencia dentro de una carpeta nueva donde estara tu cha
 
 
 
+![Todos estos paquetes deberia tener una vez que ya has instalado todos ](https://user-images.githubusercontent.com/100315330/229264984-a97380ce-e341-433b-a40b-abafbb716dd0.png)
+
+![todos ](https://user-images.githubusercontent.com/100315330/229265037-bc65144d-28aa-4e62-832b-68d6892ec2bd.png)
+
 
 
 
