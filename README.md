@@ -1,11 +1,26 @@
 # Chatbot-Python
 Chatbot de voz que te habla y te dice la respuesta 
 
+
+Antes de todo tenemos que tener instalado python en nuestra pc y luego instalar python la version ,as receinte  que hemos instalado en pagian oficial de python , luego entrar micrsoft stores de windows y instalar python , luego tenemos que ver la version de python para saber si esta intsalado python : 
+Entramos cmd lo ponemos como adminsitrador y ejecutamos este comando : pip --version
+
+creamos una carpeta donde estara guardado nuestro proyecto, accedemos a cmd como administrador ejecutamos e instalamos todos esos comamndos
+
+
 Instalar todas estas dependencia dentro de una carpeta nueva donde estara tu chatboz
 
-1.     [6:39 p. m., 13/3/2023] 𝔐𝔞𝔧𝔲🤗👩‍💻💻: pip install pyttsx3
+
+1.     [6:42 p. m., 13/3/2023] 𝔐𝔞𝔧𝔲🤗👩‍💻💻: Primero esto pip list 
+
+![Ejecutamos estecodigodentrodenuestracarpetaterminal](https://user-images.githubusercontent.com/100315330/229263928-a18538b0-d28e-4cc2-ba08-c695011055ed.jpg)
+
+
+2.     [6:39 p. m., 13/3/2023] 𝔐𝔞𝔧𝔲🤗👩‍💻💻: pip install pyttsx3
+
+![asi](https://user-images.githubusercontent.com/100315330/229264173-9072674b-9f30-4a3a-9f3f-6ec766f3aecc.jpeg)
+
  
-2.     [6:42 p. m., 13/3/2023] 𝔐𝔞𝔧𝔲🤗👩‍💻💻: Primero esto
 
 3.     [7:13 p. m., 13/3/2023] 𝔐𝔞𝔧𝔲🤗👩‍💻💻: pyaudio
 
