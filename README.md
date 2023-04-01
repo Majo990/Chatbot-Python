@@ -53,3 +53,11 @@ Instalar todas estas dependencia dentro de una carpeta nueva donde estara tu cha
 17.    [7:13 p. m., 13/3/2023] 𝔐𝔞𝔧𝔲🤗👩‍💻💻: Y te dira tu nombte
 
 18.    [7:13 p. m., 13/3/2023] 𝔐𝔞𝔧𝔲🤗👩‍💻💻: Y numero al azar
+
+
+
+
+
+
+
+![asi deberia quedar das click a ese boton play y funcionara ](https://user-images.githubusercontent.com/100315330/229264648-e58c2cce-51d0-4517-b338-ebd14f3debf8.png)
